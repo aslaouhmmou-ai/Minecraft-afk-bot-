@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "friends_server_v2.aternos.me", 
+    "port": 15224,   
     "version": "1.12.1"   
   },
 
